@@ -13,5 +13,7 @@
             "email": "example@example.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php-curl-class/php-curl-class": "^9.3"
+    }
 }
