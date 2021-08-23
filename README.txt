@@ -29,5 +29,7 @@ Yes
 
 == Development ==
 
-1. git clone ...
-2. cd dhl-shipping; composer dump-autoload
+1. git clone
+2. cd dhl-shipping
+3. composer install
+4. composer dump-autoload
